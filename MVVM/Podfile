@@ -8,4 +8,5 @@ target 'MVVM' do
   # Pods for MVVM
     pod 'RxSwift', '~> 5'
     pod 'RxCocoa', '~> 5'
+    pod 'SwiftyJSON'
 end
