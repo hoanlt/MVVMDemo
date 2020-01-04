@@ -10,4 +10,5 @@ target 'MVVM' do
     pod 'RxCocoa', '~> 5'
     pod 'SwiftyJSON'
     pod 'Moya'
+    pod 'Alamofire'
 end

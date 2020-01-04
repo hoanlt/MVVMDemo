@@ -15,6 +15,7 @@ PODS:
   - SwiftyJSON (5.0.0)
 
 DEPENDENCIES:
+  - Alamofire
   - Moya
   - RxCocoa (~> 5)
   - RxSwift (~> 5)
@@ -39,6 +40,6 @@ SPEC CHECKSUMS:
   RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
   SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
 
-PODFILE CHECKSUM: cbac19a2c02df3ef8cebaad11e7dd2a1c616866c
+PODFILE CHECKSUM: baacbd6a8ca49e635b5f4a0740df28f66450649d
 
 COCOAPODS: 1.7.5
